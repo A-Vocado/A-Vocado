@@ -1,7 +1,6 @@
-## Hi, I’m @A-Vocado
+## Hi, I’m @A-Vocado AKA Luis Napoli
 ### 👀 I’m interested in Flutter development
-### 🌱 I’m currently looking for a job on flutter
-###  💞️ I’m looking to collaborate on mobile development and UX & UI
+### 🌱 I’m currently looking for a job
 - 📫 How to reach me https://www.linkedin.com/in/luisnapoli
 
 <!---
