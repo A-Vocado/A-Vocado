@@ -1,7 +1,6 @@
-## Hi, I’m @A-Vocado AKA Luis Napoli
-### 👀 I’m interested in Flutter development
+## Hi, I’m @A-Vocado AKA Luis Ramalho
+### 👀 I’m interested in Computer Network
 ### 🌱 I’m currently looking for a job
-- 📫 How to reach me https://www.linkedin.com/in/luisnapoli
 
 <!---
 A-Vocado/A-Vocado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
